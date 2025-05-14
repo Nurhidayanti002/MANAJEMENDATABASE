@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "682499e72560513c0b95c5dc"
+  },
+  "type": "Compass Connections",
+  "version": 1,
+  "connections": [
+    {
+      "id": "ea39ec7c-610f-4683-8ef5-ddcc99afa7d0",
+      "lastUsed": {
+        "$date": "2025-05-14T12:24:48.007Z"
+      },
+      "favorite": {
+        "name": "ManajemenDataBase"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}]
